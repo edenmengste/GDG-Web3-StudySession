@@ -1,0 +1,130 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getm",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_id",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "_isPresent",
+						"type": "bool"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "m",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "name",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "id",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "isPresent",
+						"type": "bool"
+					},
+					{
+						"internalType": "uint256",
+						"name": "age",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_id",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "_isPresent",
+						"type": "bool"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"name": "setm",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week3_part2.sol": "tutorial3"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week3_part2.sol": {
+			"keccak256": "0xbe4d3d90895cf293755ee82bc05f2852089ff3d07f762cff3002b3233b2c49f7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://413da24a867e446fb470ce331e6819cb4d92c2ac4107b31e316964cc8c6f075e",
+				"dweb:/ipfs/QmNS5x3TnxNQXdfRY9YLihpg1XfyJDx6jBDV1fbHj2kpzB"
+			]
+		}
+	},
+	"version": 1
+}

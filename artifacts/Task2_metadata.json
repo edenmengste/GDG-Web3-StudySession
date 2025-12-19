@@ -26,7 +26,7 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "pure",
 				"type": "function"
 			},
 			{
@@ -39,7 +39,7 @@
 						"type": "string"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -65,7 +65,7 @@
 						"type": "bool"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
@@ -130,11 +130,11 @@
 	},
 	"sources": {
 		"Week2_Task.sol": {
-			"keccak256": "0x6aacbac5c6edc9eb0e4b74c7cc05eda982ff3d6dbad049f429eb1f8c6847491e",
+			"keccak256": "0x95a07961576ab960c751d77d149d4194ba90ce4ea1f639c8e6ccfe94bf8e0491",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b7050e91b206e73696dd40958d88d1321fc4d75b8947ff2e5c7d3ea12a831920",
-				"dweb:/ipfs/QmWKvEpDgRiXskzhVTMfiuhBwo2QXGzfmDdZg8mXQU6VYd"
+				"bzz-raw://af4df527befc89a5a0b19e9d86078570cc89f2c9c168bb7f2f523304e9681954",
+				"dweb:/ipfs/QmVeiFC5SGoRu3wih4mRRzCyn1ErfTr3tFoGuTLympp9E3"
 			]
 		}
 	},

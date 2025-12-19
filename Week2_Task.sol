@@ -55,7 +55,7 @@ contract Task2 {
     - this function should be a VIEW function
     Hint: look at Week 2 notes → view functions read from blockchain
     */
-    function getMessage() public /* add something here */ returns (string memory) {
+    function getMessage() public view returns (string memory) {
         return message;
     }
 
@@ -68,7 +68,7 @@ contract Task2 {
     - must be a PURE function (does NOT read or write blockchain state)
     Example: add(3,5) → 8
     */
-    function add(uint a, uint b) public /* make this pure */ returns (uint) {
+    function add(uint a, uint b) public pure returns (uint) {
         return a + b;
     }
 
@@ -94,7 +94,7 @@ contract Task2 {
     - returns false otherwise
     - must be a VIEW function
     */
-    function isNumberBig() public /* make this view */ returns (bool) {
+    function isNumberBig() public view returns (bool) {
         return number > 10;
     }
 
