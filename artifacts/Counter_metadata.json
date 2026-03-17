@@ -52,7 +52,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Foundry/week6/src/PersonalCounter.sol": "Counter"
+			"Foundry/SimpleVault/src/SimpleVault.sol": "Counter"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -66,12 +66,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Foundry/week6/src/PersonalCounter.sol": {
-			"keccak256": "0xbe2250bfaf2ad9448ed57636c69bc9c52643c5618900571d1fd38b2bb79f9791",
-			"license": "MIT",
+		"Foundry/SimpleVault/src/SimpleVault.sol": {
+			"keccak256": "0x09277f949d59a9521708c870dc39c2c434ad8f86a5472efda6a732ef728c0053",
+			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://9966c1804c7281300f9b5c2ddfa29d5f84cbc7646c26ee22d1b1aeb8feb2885f",
-				"dweb:/ipfs/QmTiCcwPJCxv8QWfaaHUnHuiFzE9gwLdKKxq6iJai66X8p"
+				"bzz-raw://94cd5258357da018bf911aeda60ed9f5b130dce27445669ee200313cd3389200",
+				"dweb:/ipfs/QmNbEfWAqXCtfQpk6u7TpGa8sTHXFLpUz7uebz2FVbchSC"
 			]
 		}
 	},
