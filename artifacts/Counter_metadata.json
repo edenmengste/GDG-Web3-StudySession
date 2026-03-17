@@ -52,7 +52,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Foundry/SimpleVault/src/SimpleVault.sol": "Counter"
+			"Foundry/OwnerMessageBoard/src/OwnerMessageBoard.sol": "Counter"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -66,7 +66,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Foundry/SimpleVault/src/SimpleVault.sol": {
+		"Foundry/OwnerMessageBoard/src/OwnerMessageBoard.sol": {
 			"keccak256": "0x09277f949d59a9521708c870dc39c2c434ad8f86a5472efda6a732ef728c0053",
 			"license": "UNLICENSED",
 			"urls": [
